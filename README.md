@@ -1,16 +1,13 @@
-### Hi there 👋
+# Under construction
 
-<!--
-**NicholasWM/NicholasWM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![NicholasWM's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicholaswm&show_icons=true&theme=slateorange&include_all_commits=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicholaswm&layout=compact&theme=slateorange)](https://github.com/nicholaswm/github-readme-stats)
+
+---
+[![NicholasWM's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NicholasWM&layout=compact&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
+---
