@@ -132,5 +132,7 @@ Alem do software tambem produzo conteudo para meu canal de música no Youtube de
   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 <hr>
-  
-![NicholasWM's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicholaswm&show_icons=true&theme=slateorange&include_all_commits=true)
+
+<div align="center">
+  <img src="https://media.giphy.com/media/l0MYLoPRwqwzkYJ1e/giphy.gif">
+</div>
