@@ -5,7 +5,7 @@ Comecei a desenvolver software em 2017 com o objetivo de fazer projetos embarcad
 
 Chegou um momento em que eu vi que iria ter que parar de programar e acabei que transformei o meu hobbie em profissão.
 
-Mesmo trabalhando na area como full stack há algum tempo, o entusiasmo continua o mesmo, e sempre que posso pego algum projeto aleatório para fazer só porque eu quis.
+Mesmo trabalhando na area como full stack há algum tempo, o entusiasmo continua o mesmo, e sempre que posso pego algum projeto aleatório para fazer só porque eu quero.
 
 Alem do software tambem produzo conteudo para meu canal de música no Youtube de vez em quando.
 
