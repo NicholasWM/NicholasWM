@@ -1,6 +1,9 @@
 # 🔥 WELCOME TO THE JUNGLE 🔥
+
+![wakatime-table](https://wakatime.com/share/@NicholasWM/2f97ec8a-55d1-4a6f-ba94-79fcc06a30be.svg)
+
 [![wakatime](https://wakatime.com/badge/user/aa4c006a-f5a4-4c83-b645-f58b04b16705.svg)](https://wakatime.com/@aa4c006a-f5a4-4c83-b645-f58b04b16705)
-<figure><embed src="https://wakatime.com/share/@NicholasWM/a13f53cc-875d-44a0-b591-71e0d0d02752.svg"></embed></figure>
+
 ---
 Comecei a desenvolver software em 2017 com o objetivo de fazer projetos embarcados com arduino, acabei me apaixonando e transformei isso em um hobbie.
 
