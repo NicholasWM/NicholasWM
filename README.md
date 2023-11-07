@@ -3,6 +3,7 @@
 ![wakatime-table](https://wakatime.com/share/@NicholasWM/2f97ec8a-55d1-4a6f-ba94-79fcc06a30be.svg)
 
 Contando desde 2022:
+
 [![wakatime](https://wakatime.com/badge/user/aa4c006a-f5a4-4c83-b645-f58b04b16705.svg)](https://wakatime.com/@aa4c006a-f5a4-4c83-b645-f58b04b16705)
 
 ---
