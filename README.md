@@ -65,38 +65,6 @@ Alem do software tambem produzo conteudo para meu canal de música no Youtube de
 
 <hr>
 
-### Mobile:
-
-  ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
-
-<hr>
-
-### Editores de Código:
-  ![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white) 
-  ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=FFFFFF) 
-
-<hr>
-
-### Sistemas Operacionais:
-
-  ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=FFFFFF) 
-  ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=FFFFFF) 
-
-<hr>
-
-### Uso no dia a dia:
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF)
-  ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=FFFFFF) 
-  ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white) 
-
-<hr>
-
-### Testes
-
-  ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white) 
-
-<hr>
-
 ### Tecnologias que tenho interesse/estou estudando:
 
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
