@@ -36,47 +36,6 @@ Alem do software tambem produzo conteudo para meu canal de música no Youtube de
 
 <hr>
 
-### Linguagens:
-  
-  ![Javascript](https://img.shields.io/badge/-Javascript-grey?style=for-the-badge&logo=Javascript&logoColor=black&labelColor=F7DF1E)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-grey?style=for-the-badge&logo=TypeScript&logoColor=white&labelColor=3178C6)
-
-<hr>
-
-### Front End:
-  
-  ![HTML5](https://img.shields.io/badge/-HTML5-grey?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=E34F26)
-  ![CSS3](https://img.shields.io/badge/-CSS3-grey?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=1572B6)
-  ![React](https://img.shields.io/badge/-React-grey?style=for-the-badge&logo=React&logoColor=black&labelColor=61DAFB)
-  ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) 
-  ![Sass](https://img.shields.io/badge/-Sass-grey?style=for-the-badge&logo=SASS&logoColor=white&labelColor=CC6699) 
-  ![StyledComponent](https://img.shields.io/badge/-styled--components-grey?style=for-the-badge&logo=styled-components&logoColor=black&labelColor=DB7093)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) 
-  ![ChakraUI](https://img.shields.io/badge/-Chakra%20UI-grey?style=for-the-badge&logo=Chakra-UI&logoColor=white&labelColor=319795) 
-  ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white) 
-  ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
-
-<hr>
-
-### Backend:
-  
-  ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
-
-<hr>
-
-### Tecnologias que tenho interesse/estou estudando:
-
-  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
-  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-  ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
-  ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
-  ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
-
-<hr>
-
 <div align="center">
   <img src="https://media.giphy.com/media/l0MYLoPRwqwzkYJ1e/giphy.gif">
 </div>
