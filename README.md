@@ -30,6 +30,13 @@ Mesmo trabalhando na area como full stack há algum tempo, o entusiasmo continua
 Alem do software tambem produzo conteudo para meu canal de música no Youtube de vez em quando.
 
 <hr>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/l0MYLoPRwqwzkYJ1e/giphy.gif">
+</div>
+
+<hr>
+
 <div style="width: 100%; display: flex;" align="center">
 
   [![Linkedin Badge](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/nicholas-mazzei-71a4b6142)](https://www.linkedin.com/in/nicholas-mazzei-71a4b6142)
@@ -40,7 +47,3 @@ Alem do software tambem produzo conteudo para meu canal de música no Youtube de
 </div>
 
 <hr>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/l0MYLoPRwqwzkYJ1e/giphy.gif">
-</div>
