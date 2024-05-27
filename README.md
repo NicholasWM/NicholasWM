@@ -1,10 +1,24 @@
 # 🔥 WELCOME TO THE JUNGLE 🔥
 
-![wakatime-table](https://wakatime.com/share/@NicholasWM/2f97ec8a-55d1-4a6f-ba94-79fcc06a30be.svg)
-
 Contando desde 2022:
 
 [![wakatime](https://wakatime.com/badge/user/aa4c006a-f5a4-4c83-b645-f58b04b16705.svg)](https://wakatime.com/@aa4c006a-f5a4-4c83-b645-f58b04b16705)
+  
+![wakatime-table](https://wakatime.com/share/@NicholasWM/2f97ec8a-55d1-4a6f-ba94-79fcc06a30be.svg)
+
+---
+
+<div style="display:flex; justify-content: center; flex-direction: column">
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicholaswm&layout=compact&theme=slateorange)](https://github-readme-stats.vercel.app/api/top-langs/?username=nicholaswm&layout=compact&theme=slateorange)
+  
+---
+
+  [![NicholasWM's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NicholasWM&layout=compact&theme=slateorange)](https://wakatime.com/@NicholasWM)
+
+
+</div>
+
 
 ---
 Comecei a desenvolver software em 2017 com o objetivo de fazer projetos embarcados com arduino, acabei me apaixonando e transformei isso em um hobbie.
@@ -22,15 +36,6 @@ Alem do software tambem produzo conteudo para meu canal de música no Youtube de
   [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:nicholaswm.42@gmail.com)](mailto:nicholaswm.42@gmail.com)
   [![Gitlab Badge](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white&link=https://gitlab.com/nicholaswesleymazzei)](https://gitlab.com/nicholaswesleymazzei)
   [![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/watch?v=t6wCV7T4rVY&list=PLdNNTxazxIkHGhCXcMX-9-9j6FlbIu27h&index=1)](https://www.youtube.com/watch?v=t6wCV7T4rVY&list=PLdNNTxazxIkHGhCXcMX-9-9j6FlbIu27h&index=1)
-
-</div>
-
-<hr>
-
-<div style="display:flex; justify-content: center; flex-direction: row">
-  
-  [![NicholasWM's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NicholasWM&layout=compact&theme=slateorange)](https://wakatime.com/@NicholasWM)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicholaswm&layout=compact&theme=slateorange)](https://github-readme-stats.vercel.app/api/top-langs/?username=nicholaswm&layout=compact&theme=slateorange)
 
 </div>
 
