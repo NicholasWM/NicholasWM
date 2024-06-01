@@ -25,7 +25,7 @@ Contando desde 2022:
 ---
 Comecei a desenvolver software em 2017 com o objetivo de fazer projetos embarcados com arduino, acabei me apaixonando e transformei isso em um hobbie.
 
-Chegou um momento em que eu vi que iria ter que parar de programar e acabei que transformei o meu hobbie em profissão.
+Chegou um momento em que eu vi que iria ter que parar de programar e transformei o meu hobbie em profissão.
 
 Mesmo trabalhando na area como full stack há algum tempo, o entusiasmo continua o mesmo, e sempre que posso pego algum projeto aleatório para fazer só porque eu quero.
 
