@@ -10,12 +10,7 @@ Contando desde 2022:
 
 <div style="display:flex; justify-content: center; flex-direction: column">
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicholaswm&layout=compact&theme=slateorange)](https://github-readme-stats.vercel.app/api/top-langs/?username=nicholaswm&layout=compact&theme=slateorange)
-  
----
-
   [![NicholasWM's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NicholasWM&layout=compact&theme=slateorange)](https://wakatime.com/@NicholasWM)
-
 
 </div>
 
