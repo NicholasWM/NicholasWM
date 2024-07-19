@@ -6,8 +6,6 @@ Contando desde 2022:
   
 ![wakatime-table](https://wakatime.com/share/@NicholasWM/2f97ec8a-55d1-4a6f-ba94-79fcc06a30be.svg)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicholaswm&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 <div style="display:flex; justify-content: center; flex-direction: column">
