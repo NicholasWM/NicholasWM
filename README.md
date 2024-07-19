@@ -14,8 +14,8 @@ Contando desde 2022:
 
 </div>
 
-
 ---
+
 Comecei a desenvolver software em 2017 com o objetivo de fazer projetos embarcados com arduino, acabei me apaixonando e transformei isso em um hobbie.
 
 Chegou um momento em que eu vi que iria ter que parar de programar e transformei o meu hobbie em profissão.
