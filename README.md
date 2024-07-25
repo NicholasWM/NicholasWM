@@ -13,11 +13,11 @@ Contando desde 2022:
 <table>
   <tr>
     <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholaswm&theme=slateorange&hide_border=false&include_all_commits=true&layout=compact"
-        alt="Github Stats"
-      />
+      <div style="display:flex; justify-content: center; flex-direction: column">
+      
+        [![NicholasWM's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NicholasWM&layout=compact&theme=slateorange)](https://wakatime.com/@NicholasWM)
+
+      </div>
     </td>
     <td>
       <br />
@@ -32,11 +32,7 @@ Contando desde 2022:
 
 ---
 
-<div style="display:flex; justify-content: center; flex-direction: column">
 
-  [![NicholasWM's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NicholasWM&layout=compact&theme=slateorange)](https://wakatime.com/@NicholasWM)
-
-</div>
 
 ---
 
