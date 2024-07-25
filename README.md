@@ -13,11 +13,10 @@ Contando desde 2022:
 <table>
   <tr>
     <td>
-      <div style="display:flex; justify-content: center; flex-direction: column">
-      
-        [![NicholasWM's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NicholasWM&layout=compact&theme=slateorange)](https://wakatime.com/@NicholasWM)
+<div style="display:flex; justify-content: center; flex-direction: column">
 
-      </div>
+  [![NicholasWM's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NicholasWM&layout=compact&theme=slateorange)](https://wakatime.com/@NicholasWM)
+</div>
     </td>
     <td>
       <br />
@@ -29,10 +28,6 @@ Contando desde 2022:
     </td>
   </tr>
 </table>
-
----
-
-
 
 ---
 
