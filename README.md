@@ -8,6 +8,30 @@ Contando desde 2022:
 
 ---
 
+### ⚙️ GitHub Analytics
+
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholaswm&theme=slateorange&hide_border=false&include_all_commits=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=nicholaswm&theme=slateorange&hide_border=false"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
+
+---
+
 <div style="display:flex; justify-content: center; flex-direction: column">
 
   [![NicholasWM's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NicholasWM&layout=compact&theme=slateorange)](https://wakatime.com/@NicholasWM)
