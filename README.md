@@ -9,8 +9,12 @@ Contando desde 2022:
 ---
 
 <div style="display:flex; justify-items: center; flex-direction: column; align-items: center">
-  [![NicholasWM's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NicholasWM&layout=compact&theme=slateorange)](https://wakatime.com/@NicholasWM)
+  
+[![NicholasWM's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NicholasWM&layout=compact&theme=slateorange)](https://wakatime.com/@NicholasWM)
+
 </div>
+
+---
 
 <img
   align="center"
