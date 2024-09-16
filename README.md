@@ -17,8 +17,6 @@ Chegou um momento em que eu vi que iria ter que parar de programar e transformei
 
 Mesmo trabalhando na area como full stack há algum tempo, o entusiasmo continua o mesmo, e sempre que posso pego algum projeto aleatório para fazer só porque eu quero.
 
-Alem do software tambem produzo conteudo para meu canal de música no Youtube de vez em quando.
-
 <hr>
 
 Contando desde 2022:
