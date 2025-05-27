@@ -11,14 +11,6 @@
 
 <hr>
 
-Comecei a desenvolver software em 2017 com o objetivo de fazer projetos embarcados com arduino, acabei me apaixonando e transformei isso em um hobbie.
-
-Chegou um momento em que eu vi que iria ter que parar de programar e transformei o meu hobbie em profissão.
-
-Mesmo trabalhando na area como full stack há algum tempo, o entusiasmo continua o mesmo, e sempre que posso pego algum projeto aleatório para fazer só porque eu quero.
-
-<hr>
-
 Contando desde 2022:
 
 [![wakatime](https://wakatime.com/badge/user/aa4c006a-f5a4-4c83-b645-f58b04b16705.svg)](https://wakatime.com/@aa4c006a-f5a4-4c83-b645-f58b04b16705)
